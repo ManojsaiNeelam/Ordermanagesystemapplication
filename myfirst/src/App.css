@@ -1,0 +1,20 @@
+.Navbar {
+  background-color: white; /* Set background to white */
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: #333; /* Dark text color */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+}
+
+.Navbar a {
+  color: #007BFF; /* Blue links */
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.Navbar a:hover {
+  color: #0056b3; /* Darker blue on hover */
+}

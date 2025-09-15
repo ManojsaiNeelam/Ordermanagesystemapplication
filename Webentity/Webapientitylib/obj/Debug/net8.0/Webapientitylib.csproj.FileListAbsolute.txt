@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\bin\Debug\net8.0\Webapientitylib.deps.json
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\bin\Debug\net8.0\Webapientitylib.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\bin\Debug\net8.0\Webapientitylib.dll
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\bin\Debug\net8.0\Webapientitylib.pdb
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\Webapientitylib.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\Webapientitylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\Webapientitylib.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\Webapientitylib.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\Webapientitylib.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\Webapientitylib.dll
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\refint\Webapientitylib.dll
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\Webapientitylib.pdb
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\Webapientitylib.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Webentity\Webapientitylib\obj\Debug\net8.0\ref\Webapientitylib.dll

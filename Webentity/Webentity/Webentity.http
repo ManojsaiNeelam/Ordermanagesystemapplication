@@ -1,0 +1,6 @@
+@Webentity_HostAddress = http://localhost:5091
+
+GET {{Webentity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
